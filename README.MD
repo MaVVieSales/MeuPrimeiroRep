@@ -8,4 +8,4 @@
 - Ultimamente, tenho estudado sobre o Abstracionismo.
 
 ![alt text](https://3.bp.blogspot.com/_kB1pDXsEaE0/TRzcI5lyazI/AAAAAAAAF-E/F4uHSDWM224/s1600/red+tree+-+Mondrian.jpg)
-######## Árvore vermelha (1910), de Piet Mondrian.
+#### Árvore vermelha (1910), de Piet Mondrian.
